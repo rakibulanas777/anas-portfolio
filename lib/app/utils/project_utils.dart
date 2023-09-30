@@ -15,35 +15,34 @@ class ProjectUtils {
 
 List<ProjectUtils> projectUtils = [
   ProjectUtils(
-    banners: 'assets/imgs/02.png',
+    banners: 'assets/imgs/Sudoku.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Social Media App',
-    description:
-        'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/poetically-.git',
+    titles: 'sudoku game',
+    description: 'Sudoku is one of the most popular puzzle games of all time.',
+    links: 'https://github.com/rakibulanas777/sudoku-main',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/1.png',
+    banners: 'assets/imgs/ekluviya.jpg',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome CRM UI',
+    titles: 'ekluvya_superpowers',
     description:
-        'This is a just CRM UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/sudeshnb/',
+        "It's a education website where we can find special type of education .",
+    links: 'https://github.com/rakibulanas777/ekluvya_superpowers',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/03.png',
+    banners: 'assets/imgs/fooder.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'Exercise App',
     description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
+        "It's a food website where we can find catagorywise food and placed order.",
+    links: 'https://github.com/rakibulanas777/fooder-next',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/04.png',
+    banners: 'assets/imgs/visual-cogs.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Plant App UI',
+    titles: 'Visual COGS',
     description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+        'A creative agency with 8 pages with awesome animation and cool ui',
+    links: 'https://github.com/rakibulanas777/cogs-app',
   ),
 ];

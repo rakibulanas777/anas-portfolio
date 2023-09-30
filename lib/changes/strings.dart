@@ -13,10 +13,10 @@ String contactSubHeadding =
     "Let’s work together and make everything super cute and super useful.";
 //
 String miniDescription =
-    "Freelancer providing services for programming and design content needs. Join me down below and let's get started!";
+    "Freelancer providing services for programming and design content needs.";
 
 String servicesSubHeading =
-    "Since the beginning of my journey as a freelance designer and developer, I've worked in startups and collaborated with talented people to create digital products for both business and consumer use. I offer a wide range of services, including brand design, programming and teaching.";
+    "I am a professional and dedicated programmer with substantial expertise in web and software development. I enjoy experimenting with new web technologies and continuously expanding my knowledge.";
 //
 
 String protfolioSubHeading =
