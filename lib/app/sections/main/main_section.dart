@@ -97,14 +97,14 @@ class MainPage extends StatelessWidget {
                 Align(
                   alignment: Alignment.center,
                   // BG01.png
-                  child: Image.asset(
-                    '/assets/imgs/5424482.JPG',
-                    opacity: const AlwaysStoppedAnimation<double>(0.2),
-                    width: width,
-                    height: height,
-                    fit: BoxFit.cover,
-                    alignment: Alignment.topCenter,
-                  ),
+                  // child: Image.asset(
+                  //   '/assets/imgs/5424482.JPG',
+                  //   opacity: const AlwaysStoppedAnimation<double>(0.2),
+                  //   width: width,
+                  //   height: height,
+                  //   fit: BoxFit.cover,
+                  //   alignment: Alignment.topCenter,
+                  // ),
                 ),
               _Body(),
               const ArrowOnTop()
